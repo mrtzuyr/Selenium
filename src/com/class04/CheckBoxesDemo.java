@@ -48,7 +48,7 @@ public class CheckBoxesDemo extends CommonMethods{
 			System.err.println("List is empty, check your xpath");
 		}
 		
-		//Break till 1:40
+		
 	}
 
 }
